@@ -1,5 +1,6 @@
-Images in this directory were gotten from
+Data in this directory were gotten from
+http://alice.loria.fr/index.php/software/7-data/37-unwrapped-meshes.html
 
-http://www.wisdom.weizmann.ac.il/~vision/ingan/resources/comparison.html
+Lévy, Bruno, et al. "Least squares conformal maps for automatic texture atlas generation." ACM transactions on graphics (TOG) 21.3 (2002): 362-371.
 
-Shocher, Assaf, et al. "Ingan: Capturing and retargeting the" dna" of a natural image." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
+.mtl is added and .png is verticell flipped to fit .obj format
