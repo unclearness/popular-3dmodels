@@ -1,0 +1,5 @@
+newmtl MAT_LSCM
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+map_Kd LSCM_bunny_texture.png
